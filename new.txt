@@ -1,1 +1,1 @@
-branch file dev modify secondly
+branch file both master and dev modify , dev modify secondly.
